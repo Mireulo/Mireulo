@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 ### Tools
 <span><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/IntelliJ IDEA-FE2857?style=flat&logo=IntelliJ IDEA&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/DataSpell?style=flat&logo=DataSpell&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/DataSpell-0000FF?style=flat&logo=DataSpell&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" /></span>
