@@ -17,3 +17,19 @@ Here are some ideas to get you started:
 
 ![Mireulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mireulo&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mireulo&layout=compact&theme=highcontrast)
+
+## Skills
+### Languages
+<span><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/Python-339933?style=flat&logo=Python&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/C-yellow?style=flat&logo=JavaScript&logoColor=white" /></span>
+<!-- <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></span> -->
+
+### Databases
+<span><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" /></span>
+
+### Tools
+<span><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/IntelliJ IDEA-FE2857?style=flat&logo=IntelliJ IDEA&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/DataSpell?style=flat&logo=DataSpell&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" /></span>
