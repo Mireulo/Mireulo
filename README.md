@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![HitCount](http://hits.dwyl.com/dev-yakuza/react-native-image-modal.svg)
+[![Hits](https://hits.sh/github.com/Mireulo/hits.svg?style=for-the-badge&label=Visitors&color=000000&labelColor=ffffff)](https://hits.sh/github.com/Mireulo/hits/)
 
 ![Mireulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mireulo&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mireulo&layout=compact&theme=highcontrast)
