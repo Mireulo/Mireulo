@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Skills
 ### Languages
-<span><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=JSP&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Python-339933?style=flat&logo=Python&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/C-yellow?style=flat&logo=C&logoColor=white" /></span>
 <!-- <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></span> -->
